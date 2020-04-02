@@ -1,7 +1,7 @@
 # UKL-56
 
 # LOGIN LOGOUT
-![Alt Text](hhttps://github.com/christianykyo/UKL-56/blob/master/UKL%205.1.png)
+![Alt Text](https://github.com/christianykyo/UKL-56/blob/master/UKL%205.1.png)
 Tampilan saat login dan logout
 
 # TAMBAH DATA PEMINJAMAN
